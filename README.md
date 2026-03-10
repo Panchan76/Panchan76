@@ -16,7 +16,7 @@ Meu Time Pokémon
 <img src="https://play.pokemonshowdown.com/sprites/ani/grimmsnarl.gif" width="150">
 <img src="https://play.pokemonshowdown.com/sprites/ani/blastoise.gif" width="160">
 <img src="https://play.pokemonshowdown.com/sprites/ani/reshiram.gif" width="300">
-<img src="https://play.pokemonshowdown.com/sprites/ani/toxtricity-lowkey.gif" width="80">
+<img src="https://play.pokemonshowdown.com/sprites/ani/toxtricity-lowkey.gif" width="100">
 
 </p>
 
