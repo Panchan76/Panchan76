@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Pokémon](https://img.shields.io/badge/-Pokémon%20Animation-FF0000?style=for-the-badge&logo=pokemon&logoColor=white)](https://www.pokemon.com)   
 
 <!--
 **Panchan76/Panchan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
