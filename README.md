@@ -1,4 +1,13 @@
-[![Pokémon](https://img.shields.io/badge/-Pokémon%20Animation-FF0000?style=for-the-badge&logo=pokemon&logoColor=white)](https://www.pokemon.com)   
+<html>
+ <a href="https://pokemondb.net/pokedex/sandshrew"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/sandshrew.gif" alt="Sandshrew"></a>
+ <a href="https://pokemondb.net/pokedex/zoroark"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/zoroark.gif" alt="Zoroark"></a>
+
+
+
+</html>
+
+
+
 
 <!--
 **Panchan76/Panchan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
