@@ -1,25 +1,26 @@
-<html>
- <a href="https://pokemondb.net/pokedex/sandshrew"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/sandshrew.gif" alt="Sandshrew"></a>
- <a href="https://pokemondb.net/pokedex/zoroark"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/zoroark.gif" alt="Zoroark"></a>
+# 🎮 Pokémon Trainer
+<p align="center">
+<img src="https://play.pokemonshowdown.com/sprites/trainers/hilbert.png" width="170">
 
+### Trainer: Panchan777
 
+🌍 Region: Unova  
+---
+</p>
+Meu Time Pokémon
 
-</html>
+<p align="center">
 
+<img src="https://play.pokemonshowdown.com/sprites/ani/zoroark.gif" width="160">
+<img src="https://play.pokemonshowdown.com/sprites/ani/sandslash.gif" width="100">
+<img src="https://play.pokemonshowdown.com/sprites/ani/grimmsnarl.gif" width="150">
+<img src="https://play.pokemonshowdown.com/sprites/ani/blastoise.gif" width="160">
+<img src="https://play.pokemonshowdown.com/sprites/ani/reshiram.gif" width="300">
+<img src="https://play.pokemonshowdown.com/sprites/ani/toxtricity-lowkey.gif" width="80">
 
+</p>
 
+---
 
-<!--
-**Panchan76/Panchan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+</div>
