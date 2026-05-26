@@ -1,10 +1,10 @@
-# 🎮 Pokémon Trainer
+#  Pokémon Trainer
 <p align="center">
 <img src="https://play.pokemonshowdown.com/sprites/trainers/hilbert.png" width="170">
 
 ### Trainer: Panchan777
 
-🌍 Region: Unova  
+ Region: Unova  
 ---
 </p>
 Meu Time Pokémon
