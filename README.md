@@ -11,12 +11,12 @@ Meu Time Pokémon
 
 <p align="center">
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/zoroark.gif"  alt="gif"/>
-<img src="https://play.pokemonshowdown.com/sprites/ani/sandslash.gif"  alt="gif"/>
-<img src="https://play.pokemonshowdown.com/sprites/ani/grimmsnarl.gif"  alt="gif"/>
-<img src="https://play.pokemonshowdown.com/sprites/ani/blastoise.gif"  alt="gif"/>
-<img src="https://play.pokemonshowdown.com/sprites/ani/reshiram.gif"  alt="gif"/>
-<img src="https://play.pokemonshowdown.com/sprites/ani/toxtricity-lowkey.gif"  alt="gif"/>
+<img src="https://play.pokemonshowdown.com/sprites/ani/zoroark.gif"/>
+<img src="https://play.pokemonshowdown.com/sprites/ani/sandslash.gif"/>
+<img src="https://play.pokemonshowdown.com/sprites/ani/grimmsnarl.gif" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/blastoise.gif" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/reshiram.gif" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/toxtricity-lowkey.gif"/>
 
 </p>
 </div>
